@@ -17,3 +17,5 @@ console.log(typeof undefined) // undefined
 console.table([Experience,booldGroup])
 
 console.log(46+98)
+console.log(name)
+console.log(34*98)
