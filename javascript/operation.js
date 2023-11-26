@@ -21,12 +21,32 @@ console.log(typeof changeage)
 
 let mobileNo = 3
 
-console.log(typeof mobileNo)
-console.log(mobileNo)
+//console.log(typeof mobileNo)
+//console.log(mobileNo)
 
 let result01 = Boolean(mobileNo)
-console.log(result01) // number =1 is true , 0 is fase
+//console.log(result01) // number =1 is true , 0 is fase
 
+ let value = 98
+/*++value
+console.log(value)
 
+ console.log(5+9-7%4*9)
+ */
 
+ console.log("2"+1+3)
+ console.log(8+3+"5")
+
+console.log("2" == 2)
+console.log("2" === 2) // it also check datatype
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/* Primitive boolean,string,number,symbol,Bigint,undefined,null
+
+NonPrimitive or Refrence 
+function array object
+*/
+
+// Stack (primitive) Heap (non primitive)
 
