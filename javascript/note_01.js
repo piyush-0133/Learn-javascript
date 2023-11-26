@@ -7,6 +7,7 @@ let State = "Bihar"
 console.log(age)
 console.table([name,age,State])
 
+
 // start with DataTyes
 
 let Experience = null
@@ -16,6 +17,13 @@ console.log(typeof null) //object
 console.log(typeof undefined) // undefined
 console.table([Experience,booldGroup])
 
+/* string
+   Boolean True or FALSE
+   Number 2 to 2power 52
+   bignt
+   null
+   undefined
+   */
 console.log(46+98)
 console.log(name)
 console.log(34*98)
